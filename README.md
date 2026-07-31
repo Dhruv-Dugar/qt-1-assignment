@@ -9,7 +9,6 @@ Submission for **Quantitative Techniques I, 2026-28**.
 | `app.py` | **Interactive Streamlit dashboard** — 8 tabs, every derivation and result |
 | `sahyadri_pooling.py` | The model: closed forms, optimiser, Monte Carlo, imperfect-assay simulator |
 | `run_analysis.py` | Reproduces every number and figure in the written report, non-interactively |
-| `ANALYSIS.md` | The written recommendation for Rohan |
 | `fig*.png`, `*.csv` | Static outputs from `run_analysis.py` |
 
 ## Running the dashboard
